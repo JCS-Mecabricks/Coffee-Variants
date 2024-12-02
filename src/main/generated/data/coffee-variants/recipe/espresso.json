@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": "minecraft:milk_bucket",
+    "P": "coffee-variants:coffee_item",
+    "S": "minecraft:sugar"
+  },
+  "pattern": [
+    " P ",
+    "SMS",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "coffee-variants:espresso"
+  }
+}
