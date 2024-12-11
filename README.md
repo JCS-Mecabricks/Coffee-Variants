@@ -46,4 +46,7 @@ Affogato is not craftable, it is only obtainable by a barista villager
 
 The barista villager is made from the coffee station and will trade for any coffe I mentioned and their ingredients.
 
+Lastly, I will mostly update my mods in modrinth: https://modrinth.com/user/JCS-Mecabricks
+If you have any discussions, ask them in my discussions tab: https://github.com/JCS-Mecabricks/JCS-Mecabricks/discussions
+
 ## Hope You Enjoy!
