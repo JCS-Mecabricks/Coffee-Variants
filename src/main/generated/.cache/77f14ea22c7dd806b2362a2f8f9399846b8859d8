@@ -1,0 +1,15 @@
+// 1.21.6 Release Candidate 1	-999999999-01-01T00:00:00	Coffee Variants/Coffee Variants Recipes
+22e14409522f617e9ee3ded494a5f176b869a7c6 data/coffee-variants/advancement/recipes/combat/coffee_item.json
+a4e31278ef06db34d4db826fc1a09b36e351358c data/coffee-variants/advancement/recipes/food/cappuccino.json
+ade50cf5d464e300b89387eec18b287c6e528258 data/coffee-variants/advancement/recipes/food/coffee_cup.json
+9ca0a1bbff74c3f033e16c9fc7b37d050ed455f0 data/coffee-variants/advancement/recipes/food/coffee_station.json
+89197770a9a2d3f8a365118df086936b77983ed0 data/coffee-variants/advancement/recipes/food/espresso.json
+b7b598905e26cbf4cc379184b7a24aa6b3c630fd data/coffee-variants/advancement/recipes/food/latte.json
+f53ea44cef6174582ff0fba91560d85ea1a3aacf data/coffee-variants/advancement/recipes/food/mocha.json
+dcdaaca2a1fc9c5ebe7626c65019705c2a048f69 data/coffee-variants/recipe/cappuccino.json
+308a6e7ef61a9f74a76c17bc315d3757b99d7bcf data/coffee-variants/recipe/coffee_cup.json
+97d3ba4c0443925926d1213aebc90ddeb92dbdd1 data/coffee-variants/recipe/coffee_item.json
+517a1307b5cc984ca0cfec06c52cab82a59f052c data/coffee-variants/recipe/coffee_station.json
+6e47df93a67b5d55b5cf27dd91dd322dbadaaed2 data/coffee-variants/recipe/espresso.json
+3a65315f6e28b95b714c746006552772cf7fd753 data/coffee-variants/recipe/latte.json
+65cbecba306fea00b5345325e317dc03b2128697 data/coffee-variants/recipe/mocha.json

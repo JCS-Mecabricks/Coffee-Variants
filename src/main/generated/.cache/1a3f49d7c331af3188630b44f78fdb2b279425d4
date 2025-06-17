@@ -1,0 +1,15 @@
+// 1.21.6 Release Candidate 1	-999999999-01-01T00:00:00	Coffee Variants/Model Definitions
+2516afc442d01b69c9da4ce180c7171f0195ac11 assets/coffee-variants/items/affogato.json
+fdeb47400877484c79f2278537553bb594c2986b assets/coffee-variants/items/cappuccino.json
+424fb488c11a7b02587d7242c943317e0fd9627f assets/coffee-variants/items/coffee_cup.json
+3732ca7fbb127fdcf3525dbbe2ad886aa0d580ae assets/coffee-variants/items/coffee_item.json
+9de5f24e2f5843d7d88aa41a56014938e35dcf89 assets/coffee-variants/items/espresso.json
+3cde8246e1c6d0915acf68d4c250d0cf03c8305f assets/coffee-variants/items/latte.json
+f552ec9e40c7a3a2c57268a49473d66ba70e7cb0 assets/coffee-variants/items/mocha.json
+2a3fffc0ac196959265a7d21e534607f5269ba60 assets/coffee-variants/models/item/affogato.json
+beaf21cb96adab58a1a9a13da4f66f5c76e83ec5 assets/coffee-variants/models/item/cappuccino.json
+09d0922fa08a85100b144bb7fac418fedf53cf3b assets/coffee-variants/models/item/coffee_cup.json
+bcd1aec52f07121f13fd015d71ef1524eb14f731 assets/coffee-variants/models/item/coffee_item.json
+aa8801e25b571c4464fa8f30bd3dadbbd7540cf0 assets/coffee-variants/models/item/espresso.json
+cf9532e90acf38b581a3412e7d23f9ebf7085e58 assets/coffee-variants/models/item/latte.json
+fa3d721b9c2c8ff960fa24d2e513e3f2f376aa84 assets/coffee-variants/models/item/mocha.json

@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "coffee": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["coffee-variants:coffee_item"] },
+          { "items": ["coffee-variants:cappuccino"] },
+          { "items": ["coffee-variants:espresso"] },
+          { "items": ["coffee-variants:latte"] },
+          { "items": ["coffee-variants:mocha"] }
+        ]
+      }
+    }
+  },
+  "display": {
+    "title": {
+      "translate": "advancements.coffee-variants.most_loyal_customer.title"
+    },
+    "description": {
+      "translate": "advancements.coffee-variants.most_loyal_customer.descr"
+    },
+    "icon": {
+      "id": "coffee-variants:coffee_item",
+      "count": 1
+    },
+    "frame": "task"
+  },
+  "requirements": [
+    ["coffee"]
+  ],
+  "sends_telemetry_event": true
+}

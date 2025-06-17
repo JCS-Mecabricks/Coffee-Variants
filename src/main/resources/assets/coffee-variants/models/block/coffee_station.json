@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "coffee-variants:block/coffee_station_bottom",
+    "up": "coffee-variants:block/coffee_station_top",
+    "north": "coffee-variants:block/coffee_station_front",
+    "south": "coffee-variants:block/coffee_station_front",
+    "east": "coffee-variants:block/coffee_station_side",
+    "west": "coffee-variants:block/coffee_station_side",
+    "particle": "coffee-variants:block/coffee_station_side"
+  }
+}

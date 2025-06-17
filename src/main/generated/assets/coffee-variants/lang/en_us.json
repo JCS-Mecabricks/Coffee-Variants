@@ -1,0 +1,15 @@
+{
+  "block.coffee-variants.coffee_station": "Coffee Station",
+  "item.coffee-variants.affogato": "Affogato",
+  "item.coffee-variants.cappuccino": "Cappuccino",
+  "item.coffee-variants.coffee_cup": "Coffee Cup",
+  "item.coffee-variants.coffee_item": "Coffee",
+  "item.coffee-variants.espresso": "Espresso",
+  "item.coffee-variants.latte": "Latte",
+  "item.coffee-variants.mocha": "Mocha",
+  "advancements.coffee-variants.most_loyal_customer.title": "Most Loyal Customer",
+  "advancements.coffee-variants.most_loyal_customer.descr": "Get All the Coffee Variants",
+  "entity.minecraft.villager.barista": "Barista",
+  "effect.coffee-variants.caffeine": "Caffeine",
+  "itemGroup.coffee-variants.coffee_group": "Coffee Variants"
+}

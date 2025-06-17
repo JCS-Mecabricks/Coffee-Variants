@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "coffee-variants:barista_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1642136474,
+
+    "spacing": 30,
+
+    "separation": 8,
+
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:milk_bucket",
+    "minecraft:milk_bucket",
+    "minecraft:cocoa_beans",
+    "coffee-variants:coffee_item"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coffee-variants:latte"
+  }
+}
